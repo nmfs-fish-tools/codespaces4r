@@ -1,5 +1,5 @@
 # codespaces4r
-Usethis:: style setup for codespaces with R
+`usethis::` style setup for codespaces with R
 
 ## Installation
 Install using remotes from the R console:
