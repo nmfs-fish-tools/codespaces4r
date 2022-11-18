@@ -2,7 +2,6 @@
 #' This sets up vs code with helpful packages and extensions for running r code,
 #' including radian.
 #' @export
-#' @example use_codespaces()
 use_codespaces <- function() {
   if(!dir.exists(".devcontainer")) {
     dir.create(".devcontainer")
