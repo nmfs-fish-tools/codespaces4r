@@ -29,7 +29,6 @@
 	// For example, if you want to use vscode-jupyter, add "ms-toolsai.jupyter".
 	"extensions": [
 		"GitHub.codespaces",
-		"bbenoist.Doxygen",
 		"hbenl.vscode-test-explorer",
 		"reditorsupport.r",
 		"rdebugger.r-debugger",
