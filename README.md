@@ -9,7 +9,7 @@ remotes::install_github("nmfs-fish-tools/codespaces4r")
 
 ## Usage
 
-After installing, in your local clone of your R package github repository (or any
+After installing {codespaces4r},  in your local clone of your R package github repository (or any
 repository that uses R code), run from the r console:
 
 ```r
@@ -27,7 +27,7 @@ The dev container created generally follows this advice for setting up vs code: 
 
 ## Alternatives
 
-
+- The same setup can be accomplished by following the instructions to [setup a preconfigured codespace](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers#using-a-predefined-dev-container-configuration) and finding the "rocker" option.
 - Lightest weight option: r-verse (follows steps in [github documentation](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-project-for-codespaces#step-1:-open-your-project-in-a-codespace)). This has R , but maybe not all the features you want to use it easily within codespaces.
 - https://github.com/jakubnowicki/r-codespaces- many features and r env, so startup takes a while. The readme is really helpful!
 - Get an environment with Python, R, Julia and Jupyter notebooks (Eli Holmes’s Demo: https://youtu.be/YDfZ5raWbs4)
