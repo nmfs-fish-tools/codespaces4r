@@ -6,11 +6,7 @@ use_codespaces <- function() {
   if(!dir.exists(".devcontainer")) {
     dir.create(".devcontainer")
   } 
-  if(!dir.exists(file.path(".devcontainer", "library-scripts"))) {
-    dir.create(file.path(".devcontainer", "library-scripts"))
-  }
-  filenames <- c("devcontainer.json", "Dockerfile",
-   "library-scripts/common-debian.sh")
+  filenames <- c("devcontainer.json")
   output <- lapply(filenames, function(x) {
     usethis::use_github_file( 
       paste0("https://raw.githubusercontent.com/nmfs-fish-tools/codespaces4r/main",
