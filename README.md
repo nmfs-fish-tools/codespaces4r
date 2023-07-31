@@ -1,6 +1,8 @@
 # codespaces4r
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![call-r-cmd-check](https://github.com/nmfs-fish-tools/codespaces4r/actions/workflows/call-r-cmd-check.yml/badge.svg)](https://github.com/nmfs-fish-tools/codespaces4r/actions/workflows/call-r-cmd-check.yml)
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned) 
+
+There are now much simpler codespace configs for R! Check out [setups for R in codespaces](https://github.com/nmfs-opensci/r-vscode-codespaces), which provides templates.
 
 `usethis::` style setup for codespaces with R 
 
