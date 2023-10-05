@@ -2,7 +2,7 @@
 
 [![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned) 
 
-There are now much simpler codespace configs for R! Check out [setups for R in codespaces](https://github.com/nmfs-opensci/r-vscode-codespaces), which provides templates.
+This repository has been abandoned because there are now much simpler codespace configs for R! Check out [setups for R in codespaces](https://github.com/nmfs-opensci/r-vscode-codespaces), which provides templates.
 
 `usethis::` style setup for codespaces with R 
 
